@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# OS temp files
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
+
+# Node / Java build (optional)
+node_modules/
+target/
